@@ -1,0 +1,3 @@
+This course contains only a couple of quizzes for week 1 and week 2. 
+This course does not have any programming assignment since this course focuses more on strategies and the 
+dos and don'ts that should be followed while implementing a machine learning project rather than coding knowledge.
